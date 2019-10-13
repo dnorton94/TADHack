@@ -8,11 +8,10 @@ We achieved this by creating a voice chat bot that analyzes the applicants resum
 
 ## Prerequisites
 
-+ Or pluses
-+ Or pluses
-+ Or pluses
-+ Or pluses
-+ Or pluses
++ Twilio Phone Number
++ Amazon Comprehend Instance 
++ Simwood Phone Number
++ Na
 
 ## Installation
 
