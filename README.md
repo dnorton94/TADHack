@@ -1,5 +1,7 @@
 # TADHack
 
+TADHack Global is a hackathon that helps people learn about the latest Internet, IT, and Telecoms technologies; and use those technologies to solve problems that matter.
+
 ## Installation
 
 To set this up, you need a developer account on SimWood. this repository https://github.com/ImmanuelBaskaran/TadhackSentimentCode which contains the code for the server which connects with AWS, A twillio bot.
