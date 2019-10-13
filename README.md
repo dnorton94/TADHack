@@ -1,6 +1,10 @@
 # TADHack
 
-TADHack Global is a hackathon that helps people learn about the latest Internet, IT, and Telecoms technologies; and use those technologies to solve problems that matter.
+TADHack Global is a hackathon that helps people learn about the latest Internet, IT, and Telecoms technologies; and use those technologies to solve problems that matter. For the 2019 TADHack London competition, RabbitDesk.AI wanted to reduce the average-time-to-hire for companies from 25 days to 5 days. Our attempt is to reduce average-time-to-hire, improve candidate experience and save money for Employeers. 
+
+We achieved this by creating a voice chat bot that analyzes the applicants resume and interviews the applicant on behalf on the employeer. We use natural language processing to personalize the conversation. We then used AWS comprehend to analyze then conversation that will futher filter the candidate with assistance of the employeer. As a prerequisite of the competition we used SimWood webhooks to authenticate redirect the applicants call to the appropreiate Twilio conversational bot.
+
+## Prerequisites
 
 ## Installation
 
