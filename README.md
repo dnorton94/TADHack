@@ -11,7 +11,7 @@ We achieved this by creating a voice chat bot that analyzes the applicants resum
 + Twilio Phone Number
 + Amazon Comprehend Instance 
 + Simwood Phone Number
-+ Na
++ Basic Node JS & Javascript knowledge
 
 ## Installation
 
