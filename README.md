@@ -1,4 +1,4 @@
-# TADHack
+# TADHack London
 
 ![RabbitDesk.AI](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/TADHackLondon.jpg)
 
