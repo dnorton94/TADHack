@@ -18,6 +18,8 @@ The application is voice chat bot that analyzes the applicants resume and interv
 + Simwood Phone Number
 + Basic Node JS & Javascript knowledge
 
+### Installation
+
 To set this up, you need a developer account on SimWood. this repository https://github.com/ImmanuelBaskaran/TadhackSentimentCode which contains the code for the server which connects with AWS, A twillio bot.
 
 https://github.com/ImmanuelBaskaran/TadhackSentimentCode
