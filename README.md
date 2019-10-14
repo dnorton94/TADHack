@@ -25,7 +25,7 @@ The server was written in using Express JS, The server takes a post request from
 
 ## Credits
 
-(https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Dominic+Norton.jpeg)
+![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Dominic+Norton.jpeg)
 Inline-style: 
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Dominic+Norton.jpeg)
 
