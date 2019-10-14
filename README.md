@@ -33,4 +33,4 @@ The server was written in using Express JS, The server takes a post request from
 
 ## License
 
-RabbitDesk.AI is [MIT License](../master/LICENSE).
+RabbitDesk.AI is [MIT Licensed](../master/LICENSE).
