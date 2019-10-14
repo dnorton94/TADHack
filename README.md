@@ -25,10 +25,6 @@ The server was written in using Express JS, The server takes a post request from
 
 ## Credits
 
-![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Dominic+Norton.jpeg) 
-![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Immanuel+Baskaran.jpeg)
-![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Supriya+Rai.jpeg)
-
 ## Contributions 
 
 ## Feedback
