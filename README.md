@@ -29,7 +29,7 @@ The server was written in using Express JS, The server takes a post request from
 
 ## Contributions 
 
-## Feedback
+The main purpose of this repository is to demonstrate our project and invite others to take it futher. Development of RabbitDesk.AI happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving RabbitDesk.AI.
 
 ## License
 
