@@ -3,7 +3,7 @@
 
 ![RabbitDesk.AI](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/TADHackLondon.jpg)
 
-[TADHack Global](https://tadhack.com/2019/) is a hackathon that helps people learn about the latest Internet, IT, and Telecoms technologies; and use those technologies to solve problems that matter. For the 2019 TADHack London competition, RabbitDesk.AI wanted to reduce the average-time-to-hire for companies from 25 days to 5 days. Our attempt is to reduce average-time-to-hire, improve candidate experience and save money for Employeers. 
+[TADHack Global](https://tadhack.com/2019/) is a hackathon that helps people learn about the latest Internet, IT, and Telecoms technologies; and use those technologies to solve problems that matter. For the 2019 TADHack London competition, RabbitDesk.AI wanted to reduce the average-time-to-hire for companies from 25 days to 5 days. Our attempt is to reduce average-time-to-hire, improve candidate experience and save money for Employeers. You can read our pitchdeck [here](../j).
 
 ## Overview
 
