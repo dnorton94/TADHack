@@ -1,5 +1,5 @@
 # TADHack London
-## RabbitDesk.AI is for reducing average-time-to-hire for employeers using natural language processing
+### RabbitDesk.AI is for reducing average-time-to-hire for employeers using natural language processing
 
 ![RabbitDesk.AI](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/TADHackLondon.jpg)
 
